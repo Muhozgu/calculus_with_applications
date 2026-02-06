@@ -13,5 +13,11 @@
 
 ### 1.2. Linear Functions and Applications
 
+#### Cost Analysis
+
+A small company decides to produce video games. The owners find that the fixed cost for creating the game is $5000, after which they must spend $12 to produce each individual copy of the game. Find a formula C(x) for the cost as a linear function of x, the number of games produced.
+
+
+
 ----
 
